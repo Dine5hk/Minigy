@@ -10,6 +10,7 @@ install node.js
 Go to the source code path 
 
 # Step3
+## install all this packages
 
  next install gulp-uglify
 
