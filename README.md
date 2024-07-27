@@ -1,9 +1,10 @@
 # Minigy
 
+# Step-1
+
 # install node.js
 
-
-# Step-1
+# Step-2
 
 Go to the path where you need to minify the js script
 
