@@ -3,14 +3,16 @@ const minifyJs = require("gulp-uglify");
 const sourcemaps = require("gulp-sourcemaps");
 const path = require("path");
 
-// Bundle JavaScript files
+// Source code path JavaScript files
 const bundleJs = () => {
     const sourcePaths = [
         path.resolve("./code/*.js"),
         path.resolve("./code1/*.js"),
         path.resolve("./code2/*.js")
     ];
-    
+
+
+    // output path
     const destinationPaths = [
         path.resolve("dist/minify"),
         path.resolve("dist/minify1"),
@@ -56,6 +58,6 @@ const devWatch = () => {
     });
 };
 
-// Export tasks
+// Export tasks use devWatch if nessessary
 exports.bundleJs = bundleJs;
 exports.devWatch = devWatch;
