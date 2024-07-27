@@ -1,5 +1,7 @@
 # Minigy
 
+# install node.js
+
 
 # Step-1
 
