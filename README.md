@@ -2,7 +2,7 @@
 
 # Step-1
 
-# install node.js
+install node.js
 
 # Step-2
 
