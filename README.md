@@ -7,7 +7,7 @@ install node.js
 # Step-2
  Open commant promt with Run admin
 
-Go to the path where you need to minify the js script
+Go to the source code path 
 
 # Step3
 
