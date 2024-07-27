@@ -5,10 +5,14 @@
 install node.js
 
 # Step-2
+ Open commant promt with Run admin
 
 Go to the path where you need to minify the js script
 
-# next install gulp-uglify using Run Admin Com promt
+# Step3
+
+ next install gulp-uglify
+
 npm - -D gulp-uglify
 
 npm install --save-dev gulp-uglify
