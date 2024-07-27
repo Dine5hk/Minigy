@@ -1,11 +1,11 @@
 # Minigy
 
 
-#Step-1
+# Step-1
 
 Go to the path where you need to minify the js script
 
-#next install gulp-uglify using Run Admin Com promt
+# next install gulp-uglify using Run Admin Com promt
 npm - -D gulp-uglify
 
 npm install --save-dev gulp-uglify
@@ -38,7 +38,7 @@ npm list gulp-sourcemaps
 
 
 
-#To Run the gulpfile.js use this cmmand in promt
+# To Run the gulpfile.js use this cmmand in promt
 
 gulp bundleJS  --> used to minigy the js code
 
